@@ -19,7 +19,7 @@
 
 项目的简介或项目现状；自己的角色（也就是自己擅长的领域）；需要寻找的伙伴和人数。
 
-* 一个v2ex APP [2016-3-3;  yuxiang103@gmail.com]
+* 一个v2ex APP [2016-3-3; [chris103](https://github.com/chris103); yuxiang103@gmail.com]
 
 项目的简介或项目现状:一个v2ex app ，根据[v2ex API](http://www.v2ex.com/p/7v9TEc53)，望实现跨平台(还没写,已有接口)  
 自己的角色:ObjC的iOS端
