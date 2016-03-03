@@ -19,13 +19,12 @@
 
 项目的简介或项目现状；自己的角色（也就是自己擅长的领域）；需要寻找的伙伴和人数。
 
-* 一个小APP [2016-3-3;  yuxiang103@gmail.com]
+* 一个v2ex APP [2016-3-3;  yuxiang103@gmail.com]
 
-项目的简介或项目现状:一个小 app 望实现跨平台(还没写,已有接口)  
-自己的角色:ObjC
+项目的简介或项目现状:一个v2ex app ，根据[v2ex API](http://www.v2ex.com/p/7v9TEc53)，望实现跨平台(还没写,已有接口)  
+自己的角色:ObjC的iOS端
 
-需要的小伙伴:抓取论坛帖子内容(我不会)
-
+需要的小伙伴:可能希望android小伙伴，也希望有后端同学处理一下v2ex的数据再给App端
 
 
 * [awesome-github](https://github.com/AntBranch/awesome-github)        [2016-3-3; [AntBranch](https://github.com/AntBranch); coderyi@foxmail.com]
