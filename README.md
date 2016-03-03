@@ -19,7 +19,7 @@
 
 项目的简介或项目现状；自己的角色（也就是自己擅长的领域）；需要寻找的伙伴和人数。
 
-* 一个爬取微信公众号和微博的python库 [2016-3-3; [zhichangterry](https://github.com/zhichangterry); yuxiang103@gmail.com]
+* 一个爬取微信公众号和微博的python库 [2016-3-3; [zhichangterry](https://github.com/zhichangterry)]
 
 项目的简介或项目现状:有个现成的爬虫，想着怎么开源一下，但是功能点没想太清楚，现在是能抓微信公众号内容，另外也有抓微博和秒拍内容的代码，但是还有点业务相关，主要是用了点leancloud，感觉不是很模块化，不太满意，我们现在是有个依托于leancloud的爬虫，希望能抽离出来。
 
