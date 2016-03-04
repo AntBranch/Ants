@@ -25,6 +25,17 @@
 
 ###进行的项目
 
+ 
+* [BadCode](https://github.com/AntBranch/BadCode)        [2016-3-3; [AntBranch](https://github.com/AntBranch),[Liqiankun](https://github.com/Liqiankun); coderyi@foxmail.com / qiankunli@yahoo.com]
+
+项目的简介或项目现状:[Liqiankun](https://github.com/Liqiankun)同学在antbranch 创建了一个badcode的仓库，希望收集那些烂代码，改善编程，地址 https://github.com/AntBranch/BadCode，现在有一份ObjC，希望能够有人写其他语言的 ，主要是java和python，javascript   希望有人认领这三份，当然也希望更多的语言
+
+自己的角色ObjC
+
+需要的小伙伴:java，python，javascript，以及其他更多的语言
+
+
+
 * 一个爬取微信公众号和微博的python库 [2016-3-3; [zhichangterry](https://github.com/zhichangterry)]
 
 项目的简介或项目现状:有个现成的爬虫，想着怎么开源一下，但是功能点没想太清楚，现在是能抓微信公众号内容，另外也有抓微博和秒拍内容的代码，但是还有点业务相关，主要是用了点leancloud，感觉不是很模块化，不太满意，我们现在是有个依托于leancloud的爬虫，希望能抽离出来。
