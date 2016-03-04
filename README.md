@@ -32,13 +32,16 @@
 
 需要的小伙伴:python小伙伴
 
-* 一个v2ex APP [2016-3-3; [chris103](https://github.com/chris103); yuxiang103@gmail.com]
+----
 
-项目的简介或项目现状:一个v2ex app ，根据[v2ex API](https://github.com/djyde/V2EX-API)，望实现跨平台(还没写,已有接口)  
-自己的角色:ObjC的iOS端
+* V2EX阅读器APP [2016-3-3; [chris103](https://github.com/Chris103/V2EX-iOS)]
 
-需要的小伙伴:可能希望android小伙伴，也希望有后端同学处理一下v2ex的数据再给App端
+项目的简介或项目现状:V2EX阅读器APP ，根据[v2ex API](https://github.com/djyde/V2EX-API)，望实现android端.  
+自己的角色:iOS端.
 
+需要的小伙伴:android小伙伴，也希望有后端同学处理一下V2EX的帖子数据再给App端.
+
+---
 
 * [awesome-github](https://github.com/AntBranch/awesome-github)        [2016-3-3; [AntBranch](https://github.com/AntBranch); coderyi@foxmail.com]
 
