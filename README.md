@@ -45,12 +45,16 @@
 
 ----
 
-* V2EX阅读器APP [2016-3-3; [chris103](https://github.com/Chris103/V2EX-iOS)]
+* V2EX客户端 [2016-3-3; iOS:[chris103](https://github.com/Chris103) android:[zhiyou1380](https://github.com/zhiyou1380)]
 
-项目的简介或项目现状:V2EX阅读器APP ，根据[v2ex API](https://github.com/djyde/V2EX-API)，望实现android端.  
-自己的角色:iOS端.
+项目的简介:
+第三方V2EX客户端 ，根据[v2ex API](https://github.com/djyde/V2EX-API)开发.
 
-需要的小伙伴:android小伙伴，也希望有后端同学处理一下V2EX的帖子数据再给App端.
+android端:https://github.com/zhiyou1380/V2EX 
+
+iOS端:https://github.com/Chris103/V2EX-iOS
+
+需要的小伙伴:希望有后端同学处理一下V2EX的帖子数据再给App端.
 
 ---
 
