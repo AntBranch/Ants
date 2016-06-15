@@ -1,4 +1,6 @@
 #Ants
+[![Slack](https://antbr.herokuapp.com/badge.svg)](https://antbr.herokuapp.com/)
+
 
 更好地使用GitHub；更好地发现GitHub项目；寻找开源小伙伴。
 
